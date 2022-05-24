@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://yuichiokuhama.github.io',
+  homepage: 'https://yuichiokuhama.github.io/home',
   title: 'YO.',
 }
 
@@ -46,20 +46,18 @@ const projects = [
 ]
 
 const skills = [
-  // skills can be added or removed
-  // if there are no skills, Skills section won't show up
-  'HTML',
-  'CSS',
-  'JavaScript',
-  'TypeScript',
-  'React',
-  'Redux',
-  'SASS',
+  // write my design skillls here
+  'Double Diamond Thinking',
+  'User centered design',
+  'Wireframing',
+  'Prototyping',
+  'Figma',
+  'InVision',
+  '',
   'Material UI',
   'Git',
   'CI/CD',
   'Jest',
-  'Enzyme',
 ]
 
 const contact = {
