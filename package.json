@@ -2,7 +2,7 @@
   "name": "yuichiportfolio",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://yuichiokuhama.github.io/home",
+  "homepage": "https://yuichiokuhama.github.io/yuichi-folio",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
